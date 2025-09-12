@@ -50,8 +50,8 @@ Here’s some stuff I built in my garage lab. No Meeseeks were harmed.
 Lost in the multiverse? Find me here:  
 - 📧 **Email**: hyut_2000@163.com  
 - 🐦 **X**: [@yutinghan217610](https://x.com/yutinghan217610)  
-- 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)  
-- 🖥️ **Blog**: [My Science Portal](https://your-blog.com)
+- 💼 **LinkedIn**: [Yuting Han](https://www.linkedin.com/in/yuting-han-b12b13368/)  
+
 
 > "Don’t get schwifty, get in touch!" — Rick, probably.
 
