@@ -19,17 +19,17 @@ Hey, I'm Biomaticss, a biochem master from Sun Yat-sen University, navigating th
 ## 🌌 Featured Projects
 Here’s some stuff I built in my garage lab. No Meeseeks were harmed.
 
-- **[Antibody Discovery Pipeline](https://github.com/your-username/project1)**  
+- **[Antibody Discovery Pipeline](https://github.com/biomaticss/Antibody-Discovery-Pipeline)**  
   A Python-based pipeline for analyzing antibody sequences. Built to impress Mr. Poopybutthole.  
   *Tech*: Pandas, Biopython, BLAST  
   *Status*: *In progress, like Rick’s sobriety.*
 
-- **[Protein Structure Prediction](https://github.com/your-username/project2)**  
+- **[Protein Structure Prediction](https://github.com/biomaticss/Protein-Structure-Prediction)**  
   Used AlphaFold to predict protein structures. Morty would call it "cool science stuff."  
   *Tech*: AlphaFold, PyMOL  
   *Status*: *Done, baby!*
 
-- **[NGS Data Cruncher](https://github.com/your-username/project3)**  
+- **[NGS Data Cruncher](https://github.com/biomaticss/NGS-Data-Cruncher)**  
   A script to process NGS data faster than Rick escaping the Galactic Federation.  
   *Tech*: R, Bash, AWS  
   *Status*: *Ready for interdimensional travel.*
