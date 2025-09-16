@@ -10,7 +10,7 @@ Hey, I'm Biomaticss, a biochem master from Sun Yat-sen University, navigating th
 - **Species**: Human (probably, unless I'm a clone from Dimension C-137)
 - **Mission**: Building pipelines for antibody discovery and decoding the universe’s genetic mysteries.
 - **Tools in My Portal Gun**: Python, R, NGS analysis, ELISA, PCR, and a dash of chaos.
-- **Current Adventure**: Bioinformatics analyst at a biotech company, fighting low wages with high vibes.
+- **Current Adventure**: Bioinformatics analyst at a biotech company at GuangZhou, fighting low w*ges with high vibes.
 
 > "Science isn't about *why*, it's about *why not*!" — Rick Sanchez
 
