@@ -1,5 +1,5 @@
 
-# 🚀 Welcome to Biomaticss's Intergalactic Lab! 🧪
+#  Welcome to Biomaticss's Intergalactic Lab! 🧪
 
 *“Wubba Lubba Dub Dub!”*  
 Hey, I'm Biomaticss, a biochem master from Sun Yat-sen University, navigating the multiverse of bioinformatics and antibody discovery. This is my portal to awesome projects, powered by Rick-level genius and Morty-level curiosity. Strap in for some science!
@@ -42,7 +42,7 @@ Here’s some stuff I built in my garage lab. No Meeseeks were harmed.
 | **Bioinformatics**    | Python, R, Biopython, BLAST, Bowtie, Snakemake, Docker  |
 | **Wet Lab**           | ELISA, PCR, Western Blot            |
 | **Data Viz**          | Matplotlib, Seaborn, ggplot2         |
-| **Other**             | Git, Linux, AWS, Coffee Addiction    |
+| **Other**             | Git, Linux, AWS   |
 
 ---
 
