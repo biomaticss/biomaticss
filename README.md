@@ -17,15 +17,15 @@
 ## 🌌 Featured Projects
 Here’s the heavy-duty machinery I built in my garage lab. No Meeseeks were harmed during code compilation.
 
-- **[scVDJ Symmetric Pipeline]([https://github.com/biomaticss/scVDJ_Repertoire_Analysis](https://github.com/biomaticss/scVDJ-Symmetric-Pipeline))** A highly optimized single-cell V(D)J repertoire profiling pipeline. Uses topological barcode assembly and Levenshtein dynamic programming to perfectly reconstruct native Heavy/Light chain pairings.  
+- **[scVDJ Symmetric Pipeline](https://github.com/biomaticss/scVDJ-Symmetric-Pipeline)** A highly optimized single-cell V(D)J repertoire profiling pipeline. Uses topological barcode assembly and Levenshtein dynamic programming to perfectly reconstruct native Heavy/Light chain pairings.  
   *Tech*: Python, MiXCR, Multi-processing, L4 Clonal Clustering  
   *Status*: *Perfecting native chain pairing better than a Cronenberg potion.*
 
-- **[High-Throughput Hybridoma Screening]([https://github.com/biomaticss/Hybridoma_HighThroughput_Screening](https://github.com/biomaticss/Hybridoma_HighThroughput_Screening))** A 96-well plate-based sequencing pipeline that acts as a molecular scalpel. Automatically purges aberrant kappa chains (SP2/0 myeloma background) and maps functional clones back to spatial heatmaps.  
+- **[High-Throughput Hybridoma Screening](https://github.com/biomaticss/Hybridoma_HighThroughput_Screening)** A 96-well plate-based sequencing pipeline that acts as a molecular scalpel. Automatically purges aberrant kappa chains (SP2/0 myeloma background) and maps functional clones back to spatial heatmaps.  
   *Tech*: Python, Biopython, PEAR, Seaborn  
   *Status*: *Purging toxic background noise like toxic memories.*
 
-- **[AntiManager]([https://github.com/biomaticss/AntiManager](https://github.com/biomaticss/Antimanager))** An ultra-fast, natively compiled V(D)J repertoire analysis engine. Features a custom PE-merging algorithm, K-mer based (K=31) contaminant screening, and AIRR-compliant export. Faster than Rick’s ship running on concentrated dark matter.  
+- **[AntiManager](https://github.com/biomaticss/Antimanager)** An ultra-fast, natively compiled V(D)J repertoire analysis engine. Features a custom PE-merging algorithm, K-mer based (K=31) contaminant screening, and AIRR-compliant export. Faster than Rick’s ship running on concentrated dark matter.  
   *Tech*: Rust, Rayon (Multi-threading), Docker  
   *Status*: *Ready for interdimensional massive-scale sequencing.*
 
